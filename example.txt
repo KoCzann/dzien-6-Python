@@ -1,0 +1,4 @@
+1. Hello, World!
+This is a new line.
+2. Kolejna czesc tego co chce napisac
+A tutaj jeszcze kolejna
